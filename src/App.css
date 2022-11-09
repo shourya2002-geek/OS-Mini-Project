@@ -1,0 +1,10 @@
+.outer-cont {
+  width: 100vw;
+  height: 100%;
+  background-color: #B8DAFF;
+}
+
+.list-comp {
+  margin-left: 10rem;
+  margin-top: -100px;
+}
